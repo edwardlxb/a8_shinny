@@ -2,14 +2,6 @@ library(shiny)
 library(plotly)
 library(dplyr)
 
-#install.packages('devtools')
-#devtools::install_github('rstudio/rsconnect')
-#rsconnect::setAccountInfo(name='info498-xinbo',
-                         # token='66585C4EFA7085BBFD6252A087F4749D',
-                        #  secret='7o3DcmNBW+mwOJMbUiBAWzJOQ5ReAcdE0hWlQm7z')
-#library(rsconnect)
-#rsconnect::deployApp('/Users/Edward/Documents/INFO_a8')
-
 data<- iris
 
 
